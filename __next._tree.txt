@@ -1,3 +1,5 @@
-:HL["/usereserve-site/_next/static/chunks/16epkgf4rp1~r.css","style"]
+:HL["/usereserve-site/_next/static/chunks/0kd.lj--49uw8.css","style"]
 :HL["/usereserve-site/images/usereserve-app-icon.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"0DcczGp13i-NrAHBSg4uF"}
+:HL["/usereserve-site/images/download.svg","image"]
+:HL["/usereserve-site/images/coffee.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"iuTTG8eLEmy-YWuLoEbb2"}
