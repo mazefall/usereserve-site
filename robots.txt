@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://usereserve.app
+Sitemap: https://usereserve.app/sitemap.xml
